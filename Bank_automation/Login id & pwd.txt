@@ -1,0 +1,11 @@
+login id - user a/c
+password - user name
+
+firstly you have to add MySQL database.
+
+check user id and password, then login admin, pwd - admin and select user type - admin
+
+then click on view customers and find the a/c number and customer name.
+
+
+Thanks.
