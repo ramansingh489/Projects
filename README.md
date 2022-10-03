@@ -4,7 +4,9 @@
 
 
 # [Bank Automation](https://github.com/ramansingh489/Projects/tree/main/Bank_automation)
-- Tool Created through Python - Automation (GUI)
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img Tool Created through Python - Automation (GUI)
+- Using MySQL for the database and show all the transaction.
 
   - Bank Automation Tool with MySQL for the database: There is a bank automation tool where new customers and existing customers open their accounts and check all the     details related to the amount information. This automates tool auto-update inside the tool and automatically inserts the data into
     MySQL
