@@ -10,11 +10,11 @@
 - Using visualization tool of Power BI 
 
 # [UK_ROAD_SAFETY_ACCIDENT_2015](https://github.com/ramansingh489/Projects/tree/main/UK_ROAD_SAFETY_ACCIDENT_2015)
-- MySQL and python project for analyzing UK road safty data, accidents and severity level
+> MySQL and python project for analyzing UK road safty data, accidents and severity level
 
-Accident Severity and Total Accidents per Vehicle Type
-Average Severity by vehicle type
-Average Severity and Total Accidents by Motorcyle
+- Accident Severity and Total Accidents per Vehicle Type
+- Average Severity by vehicle type
+- Average Severity and Total Accidents by Motorcyle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
