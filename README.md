@@ -4,10 +4,10 @@
 
 
 # [Bank Automation](https://github.com/ramansingh489/Projects/tree/main/Bank_automation)
-> Tool Created through Python - Automation (GUI)
+- Tool Created through Python - Automation (GUI)
 
-- Bank Automation Tool with MySQL for the database: There is a bank automation tool where new customers and existing customers open their accounts and check all the details related to the amount information. This automates tool auto-update inside the tool and automatically inserts the data into
-MySQL
+  - Bank Automation Tool with MySQL for the database: There is a bank automation tool where new customers and existing customers open their accounts and check all the     details related to the amount information. This automates tool auto-update inside the tool and automatically inserts the data into
+    MySQL
 
 # [Data Visualization](https://github.com/ramansingh489/Projects/tree/main/Data%20Visualization)
 - Using visualization tool of Power BI 
