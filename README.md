@@ -2,5 +2,5 @@
 # Bank_automation
 Project using Python with GUI & MySQL for databases.
 
-#Data Visualization
+# Data Visualization
 Using Power BI for Sample Store Dashboard.
